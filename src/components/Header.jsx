@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import logo from "./../assets/images/movieera.png";
 import avatar from "./../assets/images/avatar.png";
-import bagrd from "./../assets/images/stars.webp";
 
 import {
   HiHome,
